@@ -28,6 +28,11 @@ const apiKey = process.env.SKYGEAR_APIKEY? process.env.SKYGEAR_APIKEY : "fe8bc00
   * if you press `p` on your keyboard, you will send a `ping` from your device.
   * listen to all other `report-saved` events, and display the report content. (A new testing report can be saved via the web panel)
 
+### Skygear portal and CMS
+
+* You may login to [Skygear portal](https://portal.skygear.io) to see the app
+* View [CMS](https://iotsample.skygeario.com/cms/)
+
 
 ### Detail
 
