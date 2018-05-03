@@ -5,6 +5,7 @@ This demo is based on NodeJS, which is suggested for real time applications. For
 ### Prerequisite
 * Raspbian GNU/Linux 9 (stretch) [Download](https://www.raspberrypi.org/downloads/raspbian/)
 * NodeJS
+* [NPM](https://www.npmjs.com/get-npm)
 
 
 ### Demo flow
