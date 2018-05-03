@@ -1,0 +1,16 @@
+{
+  "name": "skygear-pi",
+  "version": "1.0.0",
+  "description": "Skygear on Raspberry Pi Quick Example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "config": "source ./skygear.env"
+  },
+  "author": "David Ng <david.ng@oursky.com> (http://www.oursky.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "skygear": "^1.5.0"
+  }
+}
